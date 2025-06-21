@@ -37,7 +37,7 @@ git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://x.com/me_aditya401?t=grtw6z_LGu5ghfnNg5j1rw&s=09).
 
 ## License
 
